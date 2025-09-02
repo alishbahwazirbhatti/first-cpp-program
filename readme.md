@@ -1,6 +1,6 @@
 # 🌟 My First C++ Program
 
-![Program Output](output.png)
+![Program Output](Output.png)
 
 ---
 
